@@ -1,0 +1,28 @@
+
+.body{
+    background-color: #9871F5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.span{
+    color: #ff0000;
+}
+.enter{
+    margin: 50px 200px;
+    border-radius: 4px;
+    padding: 70px;
+    background-color: #79c9ff;
+    width: 40%;
+    height: 100%;
+}
+footer{
+    display: block;
+    text-align: center;
+}
+.logo{
+    width: 60px;
+}
+.git{
+    width: 60px;
+}

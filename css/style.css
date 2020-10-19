@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.span{
+    color: #ff0000;
+}
+img{
+    width: 22px;
+    cursor: pointer;
+}
+
+/* ==========================tela home============================= */
+
+.home{
+    display: block;
+    text-align: center;
+    background-color:  #9871F5;
+}
+.title{
+    display: block;
+    text-align: center;
+    margin-left: 25px;
+    height: 30%;
+    width: 100%;
+    margin-bottom: 150px;
+}
+
+.to-do{
+    margin: 0 50px;
+}
+
+/* ============================cadastro tarefa============================= */
+#enter2{
+    margin-left: 200px;
+    border-radius: 4px;
+    padding: 70px;
+    background-color: #68bef8;
+    width: 40%;
+    height: 100%;
+}
+
+.logo{
+    width: 40px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.git{
+    width: 60px;
+}
